@@ -2,6 +2,8 @@ A sleek and modern web application for searching torrents on
 The Pirate Bay (TPB) using a proxy to bypass restrictions. 
 This project was developed by **TheAndroidLord**.
 
+Give it a Try : https://tbp-search.netlify.app/
+
 - **Efficient Search**: Quickly search for torrents on TPB.
 - **Top Results Display**: View the top 5 search results with
 - **detailed information on seeders and leechers.
